@@ -1,0 +1,8 @@
+app-assurmoi-API-nodejs  | npm error code ENOENT
+app-assurmoi-API-nodejs  | npm error syscall open
+app-assurmoi-API-nodejs  | npm error path /home/app/assurmoi/package.json
+app-assurmoi-API-nodejs  | npm error errno -2
+app-assurmoi-API-nodejs  | npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/app/assurmoi/package.json'
+app-assurmoi-API-nodejs  | npm error enoent This is related to npm not being able to find a file.
+app-assurmoi-API-nodejs  | npm error enoent
+app-assurmoi-API-nodejs  | npm error A complete log of this run can be found in: /home/app/.npm/_logs/2026-03-23T09_54_19_811Z-debug-0.log

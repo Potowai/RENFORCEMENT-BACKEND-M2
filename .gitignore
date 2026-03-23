@@ -1,1 +1,8 @@
 db-data/*
+node_modules/
+assurmoi/node_modules/
+.env
+assurmoi/.env
+.DS_Store
+*.log
+
