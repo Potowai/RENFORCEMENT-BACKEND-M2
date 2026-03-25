@@ -6,3 +6,4 @@ assurmoi/.env
 .DS_Store
 *.log
 
+assurmoi/.npm

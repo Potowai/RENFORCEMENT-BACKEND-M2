@@ -15,10 +15,10 @@ services:
     environment:
       - NODE_ENV=development
     volumes:
-      - './assurmoi/src:/home/app/src:rw'
+      - './assurmoi:/home/app:rw'
       - './assurmoi/.env:/home/app/.env:rw'
     ports:
-      - "3000:3000"
+      - "3001:3000"
     networks:
       - default
     expose:
